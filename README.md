@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Anthony Shea 👋
+- I'm currently working on my Bachelor's of Physics Degree.
+- I'm currently learning web development and RAG to help me become a more well rounded Data Scientist
 
 <!--
 **Anthony-Shea/Anthony-Shea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
